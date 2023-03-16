@@ -21,3 +21,6 @@ python3 $file
 
 # Shell
 sh $file
+
+# Ruby
+ruby $file

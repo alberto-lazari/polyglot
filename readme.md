@@ -7,6 +7,7 @@ The script [`polyglot.c`](polyglot.c) is a simple example of what you can do, co
 - Shell
 - Python
 - Php
+- Ruby
 
 In the parts specified by a comment `*language* code` you can put any kind of code in the *language* and, when invoked with that language, only that code will be executed.
 

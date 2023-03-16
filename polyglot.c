@@ -1,11 +1,12 @@
 #define C
 #ifndef C
-""" " &> /dev/null
+"""true"
+=begin &> /dev/null
 # Shell code
 echo Shell
 exit 0
 <?php
-for ($i = 0; $i < 6; ++$i) {
+for ($i = 0; $i < 7; ++$i) {
     echo "                   ";
     echo chr(27) . "[A";
     for ($j = 0; $j < 19; ++$j) {
@@ -24,6 +25,12 @@ exit();
 """
 # Python code
 print('Python')
+"""
+=end
+# Ruby code
+puts 'Ruby'
+__END__
+"""
 #endif
 #ifndef __cplusplus
 #include <stdio.h>
