@@ -25,12 +25,12 @@ exit();
 """
 # Python code
 print('Python')
-"""
+""" "
 =end
 # Ruby code
 puts 'Ruby'
 __END__
-"""
+" """
 #endif
 #ifndef __cplusplus
 #include <stdio.h>
