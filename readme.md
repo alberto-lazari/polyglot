@@ -11,4 +11,4 @@ The script [`polyglot.c`](polyglot.c) is a simple example of what you can do, co
 
 In the parts specified by a comment `*language* code` you can put any kind of code in the *language* and, when invoked with that language, only that code will be executed.
 
-A simple test script is given, to run the polyglot script in all the supported languages.
+A simple test script is given, to run the polyglot script in all the supported languages. Oh and that script is polyglot too.
